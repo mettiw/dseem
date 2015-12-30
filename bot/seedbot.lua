@@ -334,6 +334,8 @@ will return group ban list
 
 *Only owner can use res,setowner,promote,demote and log commands
 
+*Created By @Oo_ADMIN_DARKNESS_TM_oO
+
 ]]
 
   }
