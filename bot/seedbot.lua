@@ -226,7 +226,7 @@ function create_config( )
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v1
 Tnx to SEEDTeam
-Created by DARKNESS TM
+Created by Oo_ADMIN_DARKNESS_TM_oO
 ]],
     help_text = [[
 Commands list :
